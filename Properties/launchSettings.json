@@ -18,7 +18,7 @@
     "web": {
       "commandName": "Project",
       "launchBrowser": true,
-      "applicationUrl": "http://*:5001",
+      "applicationUrl": "http://*:5003",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
